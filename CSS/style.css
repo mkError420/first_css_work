@@ -1,0 +1,136 @@
+
+      /*   p{
+            color: goldenrod;
+            font-size: 30px;
+            background-color: brown;
+            margin-left: 40px;
+            margin-right: 40px;
+        }  
+         h2{
+            font-size: 45px;
+            text-align: center;
+            color: blue;
+        
+         }
+         h2{
+            text-transform: capitalize;
+            
+         }
+         .rabbani {
+            background-color: black; color: white;
+            text-align: center;
+         }
+         .one{
+            background-color: cadetblue;
+            color: black;
+        
+            
+         }
+         .one a{
+            color: black;
+         }
+         .two {
+            background-color: black;
+            color: white;
+            text-align: center;
+
+         }
+         .three {
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+         }
+         .four{
+            display: block; 
+            margin-left: auto;
+            margin-right: auto;
+         }
+         .one a {
+            color: red;
+         }
+         .six{
+            text-align: center;
+            color: green;
+            text-transform: capitalize;
+         }
+         #new{
+            background-color: black;
+            margin-left: 40px;
+            margin-right:40px;
+            padding: 40px 30px ;
+            text-align: justify;
+            
+           
+         }
+         .seven{
+            background-color: aquamarine;
+         }
+ */
+      
+
+p{
+    color: goldenrod;
+    font-size: 30px;
+    background-color: brown;
+    margin-left: 40px;
+    margin-right: 40px;
+}  
+ h2{
+    font-size: 45px;
+    text-align: center;
+    color: blue;
+
+ }
+ h2{
+    text-transform: capitalize;
+    
+ }
+ .rabbani {
+    background-color: black; color: white;
+    text-align: center;
+ }
+ .one{
+    background-color: cadetblue;
+    color: black;
+
+    
+ }
+ .one a{
+    color: black;
+ }
+ .two {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+ }
+ .three {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+ }
+ .four{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+ }
+ .one a {
+    color: red;
+ }
+ .six{
+    text-align: center;
+    color: green;
+    text-transform: capitalize;
+ }
+ #new{
+    background-color: black;
+    margin-left: 40px;
+    margin-right:40px;
+    padding: 40px 30px ;
+    text-align: justify;
+    
+   
+ }
+ .seven{
+    background-color: aquamarine;
+ }
